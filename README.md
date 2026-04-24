@@ -55,4 +55,4 @@ Bu repo kursun **kod referans kaynağıdır**. Her oturumdaki canlı kodlama dem
 
 - [Okuma Listesi](reading-list.md) — her oturum için küratörlü kaynaklar
 - [OpenCode Docs](https://opencode.ai/docs/) — resmi dokümantasyon
-- [Provider Kurulum Rehberi](https://backendguru.io) — tüm sağlayıcılar için adım adım kurulum
+- [Provider Kurulum Rehberi](setup/) — OpenCode CLI kurulumu ve tüm sağlayıcılar için adım adım kurulum
