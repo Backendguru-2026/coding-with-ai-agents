@@ -1,7 +1,6 @@
 # Oturum 15 — Capstone Geliştirme
 
-**Tarih:** 8 Haziran 2026 (Pazartesi)
-**Hafta:** 8 — Capstone: Uçtan Uca Proje
+Capstone: Uçtan Uca Proje
 
 ## Konu
 
